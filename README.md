@@ -1,2 +1,2 @@
 # AndroidGame
-an matching android game that use android studio
+a matching android game that use android studio
