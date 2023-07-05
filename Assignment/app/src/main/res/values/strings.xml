@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title">𝕸𝖆𝖙𝖈𝖍 𝕻𝖆𝖎𝖗𝖘 𝕸𝖊𝖒𝖔𝖗𝖞 𝕲𝖆𝖒𝖊</string>
+    <string name="play">PLAY</string>
+    <string name="rank">GAME RANKING</string>
+    <string name="record">YOUR RECORDS</string>
+    <string name="help">HELP</string>
+    <string name="close">CLOSE</string>
+    <string name="image">image</string>
+    <string name="move">Moves: "%d"    Time: "%s"   Score: "%s"</string>
+    <string name="fin">Finish! Your Moves: "%d"\nTime: "%s" Score: "%s"</string>
+    <string name="con">CONTINUE</string>
+    <string name="back">BACK</string>
+    <string name="diff">Choose Difficulty</string>
+    <string name="ads">▶ Watch AD to show hint</string>
+    <string name="desc">Easy: Normal game, 2x4\n\nMedium: 4x4, faster disclose card, have similar card\n\nHard: 3x4, faster disclose card, more similar card\n\nImpossible: 4x4, fastest disclose card, card nearly no different</string>
+</resources>
